@@ -1,8 +1,18 @@
 # Changelog
 
 ## Next
+- **Breaking**
+  - Require node v6 or later ([a5b37bd](https://github.com/esdoc/esdoc/commit/a5b37bd0c68304214185f765f617b1077bee81b7))
+  - Switch the ES parser to babylon from espree ([8130a3f](https://github.com/esdoc/esdoc/commit/8130a3f42b497e81f9ec6fc4cf0ef07ed5a7fa22))
+- **Internal**
+  - Update to babel6 ([149914e](https://github.com/esdoc/esdoc/commit/149914e84cb3bb061f2bdf2e43af00178b131a9e))
+
+## 0.4.8 (2016-08-07)
 - **Feat**
   - Through more info to plugins ([#263](https://github.com/esdoc/esdoc/pull/263)) Thanks [@typhonrt](https://github.com/typhonrt)
+- **Fix**
+  - Not work ``@link`` at property description ([#246](https://github.com/esdoc/esdoc/issues/246))
+  - Crash when function name includes member expression ([#297](https://github.com/esdoc/esdoc/issues/297))
 
 ## 0.4.7 (2016-05-02)
 - **Fix**

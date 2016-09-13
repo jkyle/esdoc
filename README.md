@@ -1,6 +1,6 @@
 ![Owner Status](https://img.shields.io/badge/owner-busy-red.svg)
 [![Build Status](https://travis-ci.org/esdoc/esdoc.svg?branch=master)](https://travis-ci.org/esdoc/esdoc)
-[![Coverage Status](https://coveralls.io/repos/esdoc/esdoc/badge.svg)](https://coveralls.io/r/esdoc/esdoc)
+[![Coverage Status](https://codecov.io/gh/esdoc/esdoc/branch/master/graph/badge.svg)](https://codecov.io/gh/esdoc/esdoc)
 [![Document](https://doc.esdoc.org/github.com/esdoc/esdoc/badge.svg?t=0)](https://doc.esdoc.org/github.com/esdoc/esdoc)
 
 # ESDoc
@@ -71,6 +71,8 @@ open ./esdoc/index.html
 
 # Document
 please visit [esdoc.org](https://esdoc.org) to see more documentation.
+
+[roadmap of v1.0.0](https://github.com/esdoc/esdoc/issues/293)
 
 # License
 MIT
